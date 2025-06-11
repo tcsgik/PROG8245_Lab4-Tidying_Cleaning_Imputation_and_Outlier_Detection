@@ -1,7 +1,8 @@
 Lab Name: 
 Lab4 - Tidying, Cleaning, Imputation, and Outlier Detection
 
-Lab Synopsis: This Lab uses Python and Jupyter Notebook in a VS Code environment to deal with a dataset, including data tidying, data cleaning, data imputation, and outlier detection. Cleaning the dataset helps with subsequent data analysis and visualization presentation.
+Lab Synopsis: 
+This Lab uses Python and Jupyter Notebook in a VS Code environment to deal with a dataset, including data tidying, data cleaning, data imputation, and outlier detection. Cleaning the dataset helps with subsequent data analysis and visualization presentation.
 
 Data Source:
 1. pew-raw.csv: Data tidying of PEW Research Dataset
